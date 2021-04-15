@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Criptography">
+    <output-path>$PROJECT_DIR$/out/artifacts/Criptography</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="msi" />
+        <option name="title" value="Cryptor" />
+        <option name="vendor" value="" />
+        <option name="version" value="1.0.0.1" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Criptography.jar">
+        <element id="module-output" name="Criptography" />
+      </element>
+    </root>
+  </artifact>
+</component>
